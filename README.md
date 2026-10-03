@@ -1,7 +1,6 @@
 # Cliente-Servidor x P2P: avaliação de desempenho na transferência de arquivos
 
-Atividade 01 – Unidade 2 da disciplina de **Sistemas Distribuídos** (Universidade Federal de Sergipe, COMP0470, Prof. Rafael Oliveira Vasconcelos).
-Atividade realizada de forma individual.
+Atividade 01 –  **Sistemas Distribuídos** 
 
 ## Sumário
 1. [Sobre a atividade](#sobre-a-atividade)
